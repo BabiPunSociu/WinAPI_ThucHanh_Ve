@@ -1,0 +1,2 @@
+C:\Users\ADMIN\source\Hoc_API\ThucHanh1\x64\Debug\ThucHanh1.exe
+C:\Users\ADMIN\source\Hoc_API\Hoc_WinAPI\ThucHanh1\x64\Debug\ThucHanh1.exe
